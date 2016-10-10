@@ -1,0 +1,46 @@
+# Header
+menu:
+  Blog: /
+  Archives: /archives
+  Imprint:
+    url: https://www.porscheinformatik.at/impressum/
+  Github:
+    url: https://github.com/porscheinformatik
+    icon: github
+  Homepage:
+    url: https://www.porscheinformatik.at/
+    icon: home
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Porsche Informatik - Devs
+
+# URL of the Home page image
+index_cover: /images/header.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# Social Accounts
+twitter_url:
+twitter_handle:
+facebook_url: https://www.facebook.com/Porsche-Informatik-GmbH-224385434245198/
+github_url: https://github.com/porscheinformatik
+gitlab_url:
+linkedin_url: https://www.linkedin.com/company/porsche-informatik-gmbh
+mailto:
