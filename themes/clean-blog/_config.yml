@@ -2,7 +2,7 @@
 menu:
   Archives: /archives
   Imprint:
-    url: https://www.porscheinformatik.at/impressum/
+    url: https://www.porscheinformatik.at/en/imprint/
   Github:
     url: https://github.com/porscheinformatik
     icon: github
