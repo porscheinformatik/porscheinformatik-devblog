@@ -1,15 +1,11 @@
 # Header
 menu:
-  Blog: /
   Archives: /archives
   Imprint:
     url: https://www.porscheinformatik.at/impressum/
   Github:
     url: https://github.com/porscheinformatik
     icon: github
-  Homepage:
-    url: https://www.porscheinformatik.at/
-    icon: home
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Porsche Informatik - Devs
