@@ -1,5 +1,5 @@
 ---
-title: SonarQube Licensecheck
+title: SonarQube License-Check 1.0 Beta
 date: 2016-10-10 18:00:00
 author: Christian Köberl
 subtitle: First beta of new plugin for SonarQube to check software licenses. 

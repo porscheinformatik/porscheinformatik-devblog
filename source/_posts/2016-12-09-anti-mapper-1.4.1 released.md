@@ -1,6 +1,6 @@
 ---
 title: anti-mapper 1.4.1
-date: 12.09.2016
+date: 2016-12-09
 author: Manfred Hantschel
 subtitle: Release of anti-mapper 1.4.1. 
 ---
